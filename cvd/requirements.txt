@@ -1,0 +1,16 @@
+# Data analysis and visualization
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+
+# Machine learning
+scikit-learn
+imbalanced-learn
+xgboost
+lightgbm
+
+# Notebook and interactive interface
+jupyter
+gradio
